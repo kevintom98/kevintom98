@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a budding embedded engineer, who is trying to find my balance between hardware and software
 <!--
 **kevintom98/kevintom98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
