@@ -1,22 +1,14 @@
 ### Hi there 👋
-I am a budding embedded engineer, who is trying to find my balance between hardware and software
-<!--
-**kevintom98/kevintom98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-🔭 I’m currently working on a Python-Tkinter-Gmaps-Folium integration project, which is to be used for vehicle tracking.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevintom98&show_icons=true&theme=default&hide=contribs)
+🔭 I’m currently working on a Python-Tkinter-Gmaps-Folium-Firebase integration project, which is to be used for vehicle tracking.
+
+
+🌱 I’m currently learning Tkinter-Firebase integration
+
+
+📫 How to reach me: kevintom98@gmail.com
+
+
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevintom98&show_icons=true&theme=default&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevintom98&layout=compact)
