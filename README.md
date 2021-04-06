@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on a Python-Tkinter-Gmaps-Folium integration project, which is to be used for vehicle tracking.
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevintom98&show_icons=true&theme=default&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevintom98&layout=compact)
