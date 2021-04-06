@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### I am a budding embedded engineer, who is trying to find balance between hardware and software
+
 
 🔭 I’m currently working on a Python-Tkinter-Gmaps-Folium-Firebase integration project, which is to be used for vehicle tracking.
 
