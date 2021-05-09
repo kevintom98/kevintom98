@@ -6,7 +6,7 @@
 🔭 I’m currently working on a Python-Tkinter-Gmaps-Folium-Firebase integration project, which is to be used for vehicle tracking.
 
 
-🌱 I’m currently learning Tkinter-Firebase integration
+🌱 I’m currently learning Tkinter-Firebase integration and Embedded C advanced concepts.
 
 
 📫 How to reach me: kevintom98@gmail.com
