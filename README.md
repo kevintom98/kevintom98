@@ -2,11 +2,13 @@
 
 ### I am a budding embedded engineer, who is trying to find balance between hardware and software
 
+Full time grduate student at University of Colorado, Boulder specializing in Embedded System and IoT.
+
 
 🔭 I’m currently working on a Python-Tkinter-Gmaps-Folium-Firebase integration project, which is to be used for vehicle tracking.
 
 
-🌱 I’m currently learning Tkinter-Firebase integration and Embedded C advanced concepts.
+🌱 I’m currently learning Embedded C advanced concepts.
 
 
 📫 How to reach me: kevintom98@gmail.com
