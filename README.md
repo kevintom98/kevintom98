@@ -5,10 +5,7 @@
 Full time grduate student at University of Colorado, Boulder specializing in Embedded System and IoT.
 
 
-🔭 I’m currently working on a Python-Tkinter-Gmaps-Folium-Firebase integration project, which is to be used for vehicle tracking.
-
-
-🌱 I’m currently learning Embedded C advanced concepts.
+🌱 I’m currently learning Embedded C advanced concepts adn design of embedded systems from scratch.
 
 
 📫 How to reach me: kevintom98@gmail.com
