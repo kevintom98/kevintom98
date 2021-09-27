@@ -5,7 +5,9 @@
 Full time graduate student at University of Colorado Boulder specializing in Embedded Systems and IoT.
 
 
-🌱 I’m currently learning C advanced concepts and design of embedded systems from scratch.
+🌱 I’m currently learning C advanced concepts and design of embedded systems from scratch.  
+Lot of the repositories I work on are private.
+
 
 
 📫 How to reach me: kevintom98@gmail.com
