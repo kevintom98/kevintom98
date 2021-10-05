@@ -6,7 +6,9 @@ Full time graduate student at University of Colorado Boulder specializing in Emb
 
 
 🌱 I’m currently learning C advanced concepts and design of embedded systems from scratch.  
-Lot of the repositories I work on are private.
+
+
+**Lot of the repositories I work on are private, since they are related to coursework.**
 
 
 
