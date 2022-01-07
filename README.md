@@ -4,6 +4,7 @@
 
 Full time graduate student at University of Colorado Boulder specializing in Embedded Systems and IoT.
 
+Watch video about my Guitar Tuner Project : https://drive.google.com/file/d/12fesfPlrtZkJAoxgFAYbVmgJYgYGukvr/view?usp=sharing
 
 🌱 I’m currently learning C advanced concepts and design of embedded systems from scratch.  
 
