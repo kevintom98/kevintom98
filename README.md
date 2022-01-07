@@ -4,10 +4,11 @@
 
 Full time graduate student at University of Colorado Boulder specializing in Embedded Systems and IoT.
 
+🌱 I’m currently learning C advanced concepts and design of embedded systems from scratch.  
+
+### Project Videos  
 **Watch video about my Guitar Tuner Project [here](https://drive.google.com/file/d/12fesfPlrtZkJAoxgFAYbVmgJYgYGukvr/view?usp=sharing)**.  
 **Watch video about my Digital Angle Gauge Project [here](https://drive.google.com/file/d/1oIr_fNSRlbOBn8hfRs_yd6o9VZI9CJ8w/view?usp=sharing)**. 
-
-🌱 I’m currently learning C advanced concepts and design of embedded systems from scratch.  
 
 
 **Lot of the repositories I work on are private, since they are related to coursework.**
