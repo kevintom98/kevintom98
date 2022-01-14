@@ -9,8 +9,8 @@ Full time graduate student at University of Colorado Boulder specializing in Emb
 **Lot of the repositories I work on are private, since they are related to coursework.**
 
 ### Project Videos  
-**Watch video about my Guitar Tuner Project [here](https://drive.google.com/file/d/12fesfPlrtZkJAoxgFAYbVmgJYgYGukvr/view?usp=sharing)**.  
-**Watch video about my Digital Angle Gauge Project [here](https://drive.google.com/file/d/1oIr_fNSRlbOBn8hfRs_yd6o9VZI9CJ8w/view?usp=sharing)**. 
+**Watch video about my Guitar Tuner Project [here](https://cutt.ly/YIftOIe)**.  
+**Watch video about my Digital Angle Gauge Project [here](https://cutt.ly/bIftGs0)**. 
 
 
 📫 How to reach me: kevintom98@gmail.com
