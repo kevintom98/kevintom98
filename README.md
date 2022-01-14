@@ -1,6 +1,6 @@
 ### Hi there!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### I am a budding embedded engineer, who is trying to find balance between hardware and software
+### I am a budding embedded engineer, who is trying to find balance between hardware and firmware.
 
 Full time graduate student at University of Colorado Boulder specializing in Embedded Systems and IoT.
 
