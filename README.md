@@ -1,4 +1,6 @@
-### Hi there!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">  
+
+### Hi there!!  
 
 ### I am a budding embedded engineer, who is trying to find balance between hardware and firmware.
 
