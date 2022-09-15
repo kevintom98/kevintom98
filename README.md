@@ -6,7 +6,7 @@
 
 Full time graduate student at University of Colorado Boulder specializing in Embedded Systems and IoT.
 
-🌱 I’m currently learning how to control different measuring equipments using python and how to use them to write automated testing scripts.  
+🌱 I’m currently learning Linux System Programming and Low Power Embedded Design Techniques.
 
 **Lot of the repositories I work on are private, since they are related to coursework.**
 
