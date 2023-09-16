@@ -1,12 +1,12 @@
 ### Hi there!!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
 
-### I am a budding embedded engineer, who is trying to find balance between firmware and hardware.
+### I am an embedded engineer, who is trying to find balance between firmware and hardware.
 
-Full time graduate student at University of Colorado Boulder specializing in Embedded Systems and IoT.
+Systems Engineer at Analog Devices.
 
-🌱 I’m currently learning Linux System Programming and Low Power Embedded Design Techniques.
+Masters of Science graudte from University of Colorado Boulder specializing in Embedded Systems and IoT.
 
-**Lot of the repositories I work on are private, since they are related to coursework.**
+🌱 I’m currently learning Low Power Embedded Design Techniques, Circuit Design and improving on my Python and C Programming skills.
 
 ### Project Videos  
 **Watch video about my Guitar Tuner Project [here](https://cutt.ly/YIftOIe)**.  
