@@ -6,7 +6,7 @@ Systems Engineer at Analog Devices.
 
 Masters of Science graudte from University of Colorado Boulder specializing in Embedded Systems and IoT.
 
-🌱 I’m currently learning Low Power Embedded Design Techniques, Circuit Design and improving on my Python and C Programming skills.
+🌱 I’m currently learning Low Power Embedded Design, Circuit Design and improving on my Python and C Programming skills.
 
 ### Project Videos  
 **Watch video about my Guitar Tuner Project [here](https://cutt.ly/YIftOIe)**.  
